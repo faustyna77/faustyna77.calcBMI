@@ -1,2 +1,2 @@
-# faustyna77.calcBMI.github.io
+# faustyna77.calcBMI
 wyznacznik BMI 
